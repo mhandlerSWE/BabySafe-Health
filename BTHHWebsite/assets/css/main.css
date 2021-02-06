@@ -3922,7 +3922,7 @@ input, select, textarea {
 				}
 
 				#main > .posts > article .image {
-					max-width: 25rem;
+					max-width: 50rem;
 					margin-left: auto;
 					margin-right: auto;
 				}
