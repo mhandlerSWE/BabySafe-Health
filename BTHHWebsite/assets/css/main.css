@@ -3132,7 +3132,7 @@ input, select, textarea {
 			margin-left: -2px;
 			min-width: 3rem;
 			position: relative;
-			text-align: center;
+			text-align: left;
 			text-decoration: none;
 			text-transform: uppercase;
 		}
@@ -3836,7 +3836,7 @@ input, select, textarea {
 			-webkit-align-items: -webkit-stretch;
 			-ms-align-items: -ms-stretch;
 			align-items: stretch;
-			text-align: center;
+			text-align: left;
 			width: 100%;
 			padding: 0;
 		}
@@ -3866,7 +3866,7 @@ input, select, textarea {
 				border-left-width: 2px;
 				border-style: solid;
 				border-top-width: 2px;
-				text-align: center;
+				text-align: left;
 			}
 
 				#main > .posts > article > :last-child {
@@ -4240,7 +4240,7 @@ input, select, textarea {
 					-moz-align-items: center;
 					-webkit-align-items: center;
 					-ms-align-items: center;
-					align-items: center;
+					align-items: left;
 					padding: 3.15rem 4rem;
 				}
 
@@ -4392,7 +4392,7 @@ input, select, textarea {
 		font-weight: 900;
 		letter-spacing: 0.075em;
 		line-height: 1.5;
-		text-align: center;
+		text-align: left;
 		text-transform: uppercase;
 		margin: 4rem auto 8rem auto;
 		width: calc(100% - 4rem);
